@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Vinit Deshpande</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+
 
 - 🌱 I’m currently learning **Python,PowerBI,SQL,Excel**
 
